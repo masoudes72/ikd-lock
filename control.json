@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "message": "ربات فعال است.",
   "update_url": "https://github.com/masoudes72/ikd/raw/refs/heads/main/ikddd.user.js"
 }
